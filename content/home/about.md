@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Management"
   institution = "Weatherhead School of Management, Case Western Reserve University"
-  year = 2012
+  year = 2014
 
 [[education.courses]]
   course = "Masters in Engineering Management"
