@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "Lero the Irish Software Research Centre, University of Limerick", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "veeresh_9.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "veeresh.thummadi@lero.ie"
   address = "Tierney Building, Lero, University of Limerick, Limerick, Ireland"
   office_hours = "By appointment only"
