@@ -1,7 +1,7 @@
 +++ title = "Enacted Software Development Routines Based on Waterfall and Agile Software Methods: Socio-Technical Event Sequence Study" date = 2011-06-10T00:00:00 draft = false
 
 Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["B.Thummadi, O. Shiv, N.Berente, K.Lyytinen"]
+authors = ["B.Thummadi", "O. Shiv", "N.Berente", "K.Lyytinen"]
 
 Publication type.
 Legend:
@@ -12,7 +12,7 @@ Legend:
 4 = Report
 5 = Book
 6 = Book section
-publication_types = ["2"]
+publication_types = ["1"]
 
 Publication name and optional abbreviated version.
 publication = "DESRIST" publication_short = "DESRIST"
