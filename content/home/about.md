@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Software Development",
+    "Open source",
+    "Agile methods"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Management"
+  institution = "Weatherhead School of Management, Case Western Reserve University"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "Masters in Engineering Management"
+  institution = "Case Western Reserve University"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BTech in Mechanical Engineering"
+  institution = "Indian Institute of Technology, Madras"
+  year = 2006
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. B Veeresh Thummadi is a Research Fellow at Lero, The Irish Software Research Centre, located in Limerick, Ireland. His research focuses on the software development. In his recent research projects, he has focussed on studying how agile and waterfall methods differ in practise, and how open source projects attract voluntary workforce, and how geographical clustering affects the survival of open source projects. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Much of this research uses fine-grained qualitative and quantitative data to tease out how software development work practises emerge and differ due to developers' habits, motivations and project conditions. His published papers have analyzed the differences in agile and waterfall practises, and agile innovative work practises.  
