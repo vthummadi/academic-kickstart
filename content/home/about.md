@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Management"
-  institution = "Weatherhead School of Management, Case Western Reserve University"
+  institution = "Case Western Reserve University"
   year = 2014
 
 [[education.courses]]
